@@ -13,7 +13,14 @@ You’ll make the following updates to the provided Python file for this assignm
 3. Add Relevant User Inputs to the Streamlit interface.
 
 4. Test the PyChain Ledger by Storing Records.
+---
+## PyChain Demo
 
+![PyChain Demo](/18_Blockchain_HW/Images/pychain_demo.gif)
+
+### Sidebar Dropdown
+##### forgot to include sidebar dropdown.  Adding Screenshot in lieu of making a new gif.
+![Sidebar Dropdown Screenshot](/18_Blockchain_HW/Images/sidebar_dropdown.png)
 ---
 ## Files
 
