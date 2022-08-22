@@ -16,11 +16,11 @@ You’ll make the following updates to the provided Python file for this assignm
 ---
 ## PyChain Demo
 
-![PyChain Demo](/18_Blockchain_HW/Images/pychain_demo.gif)
+![PyChain Demo](Images/pychain_demo.gif)
 
 ### Sidebar Dropdown
 ##### Forgot to include sidebar dropdown.  Adding Screenshot in lieu of making a new gif.
-![Sidebar Dropdown Screenshot](/18_Blockchain_HW/Images/sidebar_dropdown.png)
+![Sidebar Dropdown Screenshot](Images/sidebar_dropdown.png)
 ---
 ## Files
 
