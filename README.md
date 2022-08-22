@@ -19,7 +19,7 @@ You’ll make the following updates to the provided Python file for this assignm
 ![PyChain Demo](/18_Blockchain_HW/Images/pychain_demo.gif)
 
 ### Sidebar Dropdown
-##### forgot to include sidebar dropdown.  Adding Screenshot in lieu of making a new gif.
+##### Forgot to include sidebar dropdown.  Adding Screenshot in lieu of making a new gif.
 ![Sidebar Dropdown Screenshot](/18_Blockchain_HW/Images/sidebar_dropdown.png)
 ---
 ## Files
